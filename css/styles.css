@@ -1,0 +1,55 @@
+
+/*универсальный селектор*/ 
+* 
+
+
+/* шапка меню */ 
+
+li{
+list-style: none;
+}
+
+.menu-list{
+
+width: 72px;
+height: 16px;
+left: 548px;
+top: 32px;
+color: #212121;
+
+}
+
+.menu-list:hover{
+
+width: 45px;
+height: 16px;
+left: 453px;
+top: 32px;
+color: #2196F3;
+
+}
+
+.contact-list{
+
+width: 122px;
+height: 16px;
+left: 1263px;
+top: 32px;
+color: #757575;
+
+}
+
+.contact-list:hover{
+
+width: 122px;
+height: 16px;
+left: 1263px;
+top: 32px;
+color: #000000;
+
+
+}
+
+
+
+
